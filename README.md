@@ -12,6 +12,7 @@ This project aims to develop an intelligent system capable of automatically iden
 <div align="center">
     <img src="Picture3.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
+
 # Training on Google Colab
 <div align="center">
     <img src="Picture4.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
@@ -28,10 +29,12 @@ This project aims to develop an intelligent system capable of automatically iden
 <div align="center">
     <img src="Picture7.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
+
 # Hardware
 <div align="center">
     <img src="Picture8.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
+
 # Results
 <div align="center">
     <img src="Picture9.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
@@ -44,6 +47,7 @@ This project aims to develop an intelligent system capable of automatically iden
 <div align="center">
     <img src="Picture11.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
+
 # Presentation at ICCSS - SSPS conference
 <div align="center">
     <img src="Screenshot 2025-05-18 104909.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
